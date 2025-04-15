@@ -20,6 +20,11 @@ export const Wrapper = props => {
                                     Products
                                 </a>
                             </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="/orders" target="_blank" rel="noopener noreferrer">
+                                    Orders
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </nav>
