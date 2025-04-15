@@ -15,9 +15,11 @@ It uses:
 - **FastAPI** - High-performance web framework for Python
 - **RedisJSON** - JSON-based NoSQL database
 - **Redis Streams** - Event-driven architecture support
+- **Render** - Cloud platform for hosting microservices
 
 ### Frontend
 - **React** - Modern JavaScript frontend library
+- **Firebase Hosting** - Production-grade web hosting
 
 ---
 
@@ -44,5 +46,15 @@ It uses:
 - React frontend to interact with backend services
 
 ---
+
+
+## 🚀 Deployment Guide
+
+### 🔥 Frontend Deployment (Firebase Hosting)
+![image](https://github.com/user-attachments/assets/b1bbf8f1-0b76-41ff-9337-cc0f21a963c9)
+
+### 🔥 Backend Deployment (Render)
+
+![image](https://github.com/user-attachments/assets/8ffa81fc-c2b7-4c9a-8660-1486aa3582f7)
 
 
